@@ -1,4 +1,4 @@
--- 𝑶𝒃𝒔𝒊𝒅𝒊𝒂𝒏 𝑯𝒖𝒃 RED EDITION | optimized visual build
+-- 𝑶𝒃𝒔𝒊𝒅𝒊𝒂𝒏 𝑫𝒖𝒆𝒍 RED EDITION | optimized visual build
 local BG         = Color3.fromRGB(8, 0, 0)
 local SIDEBAR_BG = Color3.fromRGB(14, 0, 0)
 local CARD_BG    = Color3.fromRGB(28, 0, 0)
